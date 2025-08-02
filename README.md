@@ -38,8 +38,8 @@ A modern, interactive 3D Rubik's Cube web application featuring real-time manipu
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd rubik-main
+   git clone https://github.com/kanugurajesh/kociemba
+   cd kociemba
    ```
 
 2. **Set up the backend**
